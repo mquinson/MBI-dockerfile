@@ -1,2 +1,5 @@
 # MBI-dockerfile
-What it takes to build the docker image of the MPI Bugs Initiative
+
+This repository only exists so that the MBI (MPI Bugs Initiative)
+Doker image gets automatically built on need by GitHub actions.
+
